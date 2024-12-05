@@ -1,0 +1,276 @@
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b>SECTION&nbsp;5</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b>LETTERS
+OF CREDIT</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>L/C
+Commitment.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Subject
+to the terms and conditions hereof, each Issuing Lender, in reliance on the agreements set forth in this Agreement, agrees to issue letters
+of credit (provided that Barclays shall only be required to issue standby letters of credit) (�<u>Letters of Credit</u>�)
+for the account of the Borrower on any Business Day during the Commitment Period in such form as may be approved from time to time by
+the Issuing Lender; <u>provided</u> that the Issuing Lender shall not issue any Letter of Credit if, after giving effect to such issuance,
+(i)&nbsp;the L/C Obligations would exceed the L/C Commitment, (ii)&nbsp;the aggregate amount of the Available Revolving Credit Commitments
+would be less than zero, (iii)&nbsp;the Dollar Equivalent of the aggregate outstanding principal amount of Multicurrency Loans, Local
+Currency Loans and L/C Obligations attributable to Letters of Credit denominated in any currency other than Dollars would exceed the
+Multicurrency Sublimit, (iv)&nbsp;the L/C Obligations in respect of all Letters of Credit issued by such Issuing Lender would exceed
+its Issuing Lender Commitment or (v)&nbsp;any Lender is at that time a Defaulting Lender, unless the Issuing Lender has entered into
+arrangements, including the delivery of Cash Collateral, reasonably satisfactory to the Issuing Lender with the Borrower or such Lender
+to eliminate the Issuing Lender�s actual or potential Fronting Exposure (after giving effect to <u>subsection 2.19(a)(iv)</u>)
+with respect to the Defaulting Lender arising from either the Letter of Credit then proposed to be issued or that Letter of Credit and
+all other L/C Obligations as to which the Issuing Lender has actual or potential Fronting Exposure. Each Letter of Credit shall (i)&nbsp;be
+denominated in Dollars, any Available Foreign Currency, or any other currency acceptable to the Issuing Lender, (ii)&nbsp;have a face
+amount of at least $1,000,000 (unless otherwise agreed by the Issuing Lender) and (iii)&nbsp;expire (or be subject to termination by
+notice from the Issuing Lender to the beneficiary thereof) no later than the date that is five Business Days prior to the Termination
+Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Issuing Lender shall not at any time be obligated to issue any Letter of Credit if such issuance would conflict with, or cause the Issuing
+Lender or any L/C Participant to exceed any limits imposed by, any applicable Requirement of Law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Letters
+of Credit issued under the Existing Credit Facilities and outstanding on the Closing Date shall be deemed to be issued under this Agreement
+on the Closing Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 13; Value: 46 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->58<!-- Field: /Sequence --> -</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Procedure
+for Issuance of Letter of Credit. </b>The Borrower may from time to time request that the Issuing Lender issue a Letter of Credit by
+delivering to the Issuing Lender at its address for notices specified herein an Application therefor, completed to the satisfaction of
+the Issuing Lender, and such other certificates, documents and other papers and information as the Issuing Lender may request. Upon receipt
+of any Application, the Issuing Lender will process such Application and the certificates, documents and other papers and information
+delivered to it in connection therewith in accordance with its customary policies and procedures and shall promptly issue the Letter
+of Credit requested thereby (but in no event shall the Issuing Lender be required to issue any Letter of Credit earlier than three Business
+Days after its receipt of the Application therefor and all such other certificates, documents and other papers and information relating
+thereto) by issuing the original of such Letter of Credit to the beneficiary thereof or as otherwise may be agreed to by the Issuing
+Lender and the Borrower. The Issuing Lender shall furnish a copy of such Letter of Credit to the Borrower promptly following the issuance
+thereof. The Issuing Lender shall promptly furnish to the Administrative Agent, which shall in turn promptly furnish to the Lenders,
+notice of the issuance of each Letter of Credit (including the amount thereof). If the Borrower so requests, the applicable Issuing Lender
+may, in its sole and absolute discretion, agree to issue a Letter of Credit that has automatic extension provisions (each, an �<u>Auto-Extension
+Letter of Credit</u>�); <u>provided</u>, that any such Auto-Extension Letter of Credit must permit such Issuing Lender to prevent
+any such extension at least once in each 12-month period (or such longer period in the case of a Letter of Credit with an expiration
+in excess of 12 months) (commencing with the date of issuance of such Letter of Credit) by giving prior notice to the beneficiary thereof
+not later than a day (the �<u>Non-Extension Notice Date</u>�) in each such 12-month period (or such longer period in the
+case of a Letter of Credit with an expiration in excess of 12 months) to be agreed upon at the time such Letter of Credit is issued.
+Unless otherwise directed by the applicable Issuing Lender, the Borrower shall not be required to make a specific request to such Issuing
+Lender for any such extension. Once an Auto-Extension Letter of Credit has been issued, the Lenders shall be deemed to have authorized
+(but may not require) the applicable Issuing Lender to permit the extension of such Letter of Credit at any time to an expiry date not
+later than the Termination Date; <u>provided</u>, <u>however</u>, that such Issuing Lender shall not permit any such extension if (i)&nbsp;such
+Issuing Lender has determined that it would not be permitted, at such time to issue such Letter of Credit in its revised form (as extended)
+under the terms hereof, or (ii)&nbsp;it has received notice (which may be by telephone or in writing) on or before the day that is five
+Business Days before the Non-Extension Notice Date (A)&nbsp;from the Administrative Agent that the Majority Lenders have elected not
+to permit such extension or (B)&nbsp;from the Administrative Agent, any Lender or the Borrower that one or more of the applicable conditions
+specified in Section&nbsp;7 are not then satisfied, and in each such case directing such Issuing Lender not to permit such extension.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Fees
+and Other Charges.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Borrower will pay a fee on the actual daily undrawn amount of all outstanding Letters of Credit at a per annum rate equal to the Applicable
+Margin then in effect with respect to Eurodollar Loans, shared ratably among the Revolving Lenders and payable quarterly in arrears on
+each L/C Fee Payment Date after the issuance date; such fee with respect to each Letter of Credit denominated in any currency other than
+Dollars shall be payable in Dollars, and for purposes of calculating the amount of such fee applicable to each Letter of Credit denominated
+in any currency other than Dollars, the actual daily undrawn, outstanding amount of such Letter of Credit shall be the Dollar Equivalent
+of such amount calculated at the Exchange Rate as of the relevant L/C Fee Payment Date; provided, however, that any such fees otherwise
+payable for the account of a Defaulting Lender with respect to any Letter of Credit as to which such Defaulting Lender has not provided
+Cash Collateral satisfactory to the Issuing Lender pursuant to <u>subsection 5.1</u> shall be payable, to the maximum extent permitted
+by applicable law, to the other Lenders in accordance with the upward adjustments in their respective Revolving Credit Commitment Percentages
+allocable to such Letter of Credit pursuant to <u>subsection 2.19(a)(iv)</u>, with the balance of such fee, if any, payable to the Issuing
+Lender for its own account. In addition, the Borrower shall pay to the Issuing Lender for its own account a fronting fee in the amount
+separately agreed to by the Issuing Lender and the Borrower on the actual daily undrawn, outstanding amount of each Letter of Credit,
+payable quarterly in arrears on each L/C Fee Payment Date after the issuance date; such fee with respect to each Letter of Credit denominated
+in any currency other than Dollars shall be payable in Dollars, and for purposes of calculating the amount of such fee applicable to
+each Letter of Credit denominated in any currency other than Dollars, the actual daily undrawn, outstanding amount of such Letter of
+Credit shall be the Dollar Equivalent of such amount calculated at the Exchange Rate as of the relevant L/C Fee Payment Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 14; Value: 46 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->59<!-- Field: /Sequence --> -</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>In
+addition to the foregoing fees, the Borrower shall pay or reimburse the Issuing Lender for such normal and customary costs and expenses
+as are incurred or charged by the Issuing Lender in issuing, negotiating, examining documents under, effecting payment under, amending
+or otherwise administering any Letter of Credit.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>L/C
+Participations.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Issuing Lender irrevocably agrees to grant and hereby grants to each L/C Participant, and, to induce the Issuing Lender to issue Letters
+of Credit, each L/C Participant irrevocably agrees to accept and purchase and hereby accepts and purchases from the Issuing Lender, on
+the terms and conditions set forth below, for such L/C Participant�s own account and risk an undivided interest equal to such L/C
+Participant�s Revolving Credit Commitment Percentage in the Issuing Lender�s obligations and rights under and in respect
+of each Letter of Credit and the amount of each drawing paid by the Issuing Lender thereunder. Each L/C Participant unconditionally and
+irrevocably agrees with the Issuing Lender that, if a drawing is paid under any Letter of Credit for which the Issuing Lender is not
+reimbursed in full by the Borrower in accordance with the terms of this Agreement, such L/C Participant shall pay to the Issuing Lender
+through the Administrative Agent (or the Administrative Agent shall apply Cash Collateral provided for this purpose) upon demand at the
+Administrative Agent�s address for notices specified herein an amount equal to such L/C Participant�s Revolving Credit Commitment
+Percentage of the amount of such drawing, or any part thereof, that is not so reimbursed.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+any amount required to be paid by any L/C Participant to the Issuing Lender pursuant to <u>subsection 5.4(a)</u>&nbsp;in respect of any
+unreimbursed portion of any payment made by the Issuing Lender under any Letter of Credit is paid to the Issuing Lender within three
+Business Days after the date such payment is due, such L/C Participant shall pay to the Issuing Lender on demand an amount equal to the
+product of (i)&nbsp;such amount, times (ii)&nbsp;the daily average NYFRB Rate during the period from and including the date such payment
+is required to the date on which such payment is immediately available to the Issuing Lender, times (iii)&nbsp;a fraction the numerator
+of which is the number of days that elapse during such period and the denominator of which is 360. If any such amount required to be
+paid by any L/C Participant pursuant to <u>subsection 5.4(a)</u>&nbsp;is not made available to the Issuing Lender by such L/C Participant
+within three Business Days after the date such payment is due, the Issuing Lender shall be entitled to recover from such L/C Participant,
+on demand, such amount with interest thereon calculated from such due date at the rate per annum applicable to ABR Loans. A certificate
+of the Issuing Lender submitted through the Administrative Agent to any L/C Participant with respect to any amounts owing under this
+Section&nbsp;shall be conclusive in the absence of manifest error.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Whenever,
+at any time after the Issuing Lender has made payment under any Letter of Credit and has received from any L/C Participant its <u>pro
+rata</u> share of such payment in accordance with <u>subsection 5.4(a)</u>, the Administrative Agent receives any payment related to
+such Letter of Credit (whether directly from the Borrower or otherwise, including proceeds of collateral applied thereto by the Issuing
+Lender), or any payment of interest on account thereof, the Administrative Agent will distribute to such L/C Participant its <u>pro rata
+</u>share thereof; <u>provided</u>, <u>however</u>, that in the event that any such payment received by the Issuing Lender shall be required
+to be returned by the Issuing Lender, such L/C Participant shall return to the Issuing Lender through the Administrative Agent the portion
+thereof previously distributed by the Issuing Lender to it.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 15; Value: 46 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->60<!-- Field: /Sequence --> -</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Reimbursement
+Obligation of the Borrower. </b>The Borrower agrees to reimburse the Issuing Lender through the Administrative Agent on the Business
+Day next succeeding the Business Day on which the Issuing Lender notifies the Borrower and the Administrative Agent of the date and amount
+of a drawing under any Letter of Credit paid by the Issuing Lender for the amount of (a)&nbsp;such drawing so paid and (b)&nbsp;any taxes,
+fees, charges or other costs or expenses incurred by the Issuing Lender in connection with such payment. Each such payment shall be made
+to the Issuing Lender in Dollars and in immediately available funds. Interest shall be payable on any such amounts from the date on which
+the relevant drawing is paid until payment in full at the rate set forth in (i)&nbsp;until the Business Day next succeeding the date
+of the relevant notice, <u>subsection 3.4(b)</u>&nbsp;and (ii)&nbsp;thereafter, <u>subsection 3.4(e)</u>. Each drawing under any Letter
+of Credit shall (unless an event of the type described in clause (i)&nbsp;or (ii)&nbsp;of <u>subsection 10(g)</u>&nbsp;shall have occurred
+and be continuing with respect to the Borrower, in which case the procedures specified in <u>subsection 5.4</u> for funding by L/C Participants
+shall apply) constitute a request by the Borrower to the Administrative Agent for a borrowing pursuant to <u>subsection 2.2</u> of ABR
+Loans in the amount of such drawing (and the minimum borrowing amount in such subsection shall not apply to such borrowing). The Borrowing
+Date with respect to such borrowing shall be the first date on which a borrowing of Revolving Credit Loans could be made, pursuant to
+<u>subsection 2.2</u>, if the Administrative Agent had received a notice of such borrowing at the time the Administrative Agent receives
+notice from the relevant Issuing Lender of such drawing under such Letter of Credit.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Obligations
+Absolute. </b>The Borrower�s obligations under this <u>Section&nbsp;5</u> shall be absolute and unconditional under any and all
+circumstances and irrespective of any setoff, counterclaim or defense to payment that the Borrower may have or have had against the Issuing
+Lender, any beneficiary of a Letter of Credit or any other Person. The Borrower also agrees with the Issuing Lender that the Issuing
+Lender shall not be responsible for, and the Borrower�s Reimbursement Obligations under <u>subsection 5.5</u> shall not be affected
+by, among other things, the validity or genuineness of documents or of any endorsements thereon, even though such documents shall in
+fact prove to be invalid, fraudulent or forged, or any dispute between or among the Borrower and any beneficiary of any Letter of Credit
+or any other party to which such Letter of Credit may be transferred or any claims whatsoever of the Borrower against any beneficiary
+of such Letter of Credit or any such transferee. The Issuing Lender shall not be liable for any error, omission, interruption or delay
+in transmission, dispatch or delivery of any message or advice, however transmitted, in connection with any Letter of Credit, except
+for errors or omissions found by a final and nonappealable decision of a court of competent jurisdiction to have resulted from the gross
+negligence or willful misconduct of the Issuing Lender. The Borrower agrees that any action taken or omitted by the Issuing Lender under
+or in connection with any Letter of Credit or the related drafts or documents, if done in the absence of gross negligence or willful
+misconduct and in accordance with the standards of care specified in the Uniform Commercial Code of the State of New York, shall be binding
+on the Borrower and shall not result in any liability of the Issuing Lender to the Borrower.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Letter
+of Credit Payments. </b>If any drawing shall be presented for payment under any Letter of Credit, the Issuing Lender shall, promptly
+following its receipt thereof, examine all documents purporting to represent a demand for payment under such Letter of Credit. Such Issuing
+Lender shall promptly after such examination notify the Administrative Agent and the Borrower in writing of such demand for payment and
+whether such Issuing Lender has made or will make payment thereunder; provided that any failure to give or delay in giving such notice
+shall not relieve the Borrower of its obligation to reimburse such Issuing Lender and L/C Participant with respect to any such payment
+under Letter of Credit. The responsibility of the Issuing Lender to the Borrower in connection with any drawing presented for payment
+under any Letter of Credit shall, in addition to any payment obligation expressly provided for in such Letter of Credit, be limited to
+determining that the documents (including each drawing) delivered under such Letter of Credit in connection with such presentment are
+substantially in conformity with such Letter of Credit.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 16; Value: 46 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->61<!-- Field: /Sequence --> -</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Applications.
+</b>To the extent that any provision of any Application related to any Letter of Credit is inconsistent with the provisions of this <u>Section&nbsp;5</u>,
+the provisions of this <u>Section&nbsp;5</u> shall apply.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Reimbursement
+Obligations for Certain Letters of Credit Denominated in Currencies Other Than Dollars. </b>Notwithstanding any other provision of this
+<u>Section&nbsp;5</u>, in the event that any Letter of Credit is denominated in any currency other than Dollars, the amount of the Reimbursement
+Obligation of the Borrower pursuant to <u>subsection 5.5</u> in respect of such Letter of Credit shall bear interest as provided in <u>subsection
+5.5</u> with respect to amounts owing in Dollars; <u>provided</u>, that (i)&nbsp;the interest rate on such amounts shall be the rate
+reasonably determined by the Issuing Lender to be the equivalent rate, in respect of the relevant non-Dollar currency, to the applicable
+rate provided in <u>subsection 5.5</u> with respect to amounts denominated in Dollars and (ii)&nbsp;if the Borrower fails to pay any
+such Reimbursement Obligation required by <u>subsection 5.5</u> on or prior to the third Business Day following the date of the drawing
+to which such Reimbursement Obligation relates, then, on the fourth Business Day following such date of drawing, the relevant Issuing
+Lender, in cooperation with the Administrative Agent, shall determine the Dollar Equivalent of the amount of such Reimbursement Obligation,
+and the Borrower�s obligation in respect of such Reimbursement Obligation shall be converted to such Dollar Equivalent, with interest
+thereon as provided in <u>subsection 5.5</u> (<u>provided</u>, that if the Application in respect of such Letter of Credit provides for
+conversion of such amount into Dollars on any earlier date or at any other conversion rate, the provisions hereunder shall control with
+respect to such conversion).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>5.10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Replacement
+of Issuing Lenders. </b>An Issuing Lender may be replaced at any time by written agreement among the Borrower, the Administrative Agent,
+the replaced Issuing Lender and the successor Issuing Lender. The Administrative Agent shall notify the Lenders of any such replacement
+of an Issuing Lender. At the time any such replacement shall become effective, the Borrower shall pay all unpaid fees accrued for the
+account of the replaced Issuing Lender. From and after the effective date of any such replacement, (x)&nbsp;the successor Issuing Lender
+shall have all the rights and obligations of Issuing Lenders under this Agreement with respect to Letters of Credit to be issued thereafter
+and (y)&nbsp;references herein to the term �Issuing Lender� shall be deemed to refer to such successor or to any previous
+Issuing Lenders, or to such successor and all previous Issuing Lenders, as the context shall require. After the replacement of an Issuing
+Lender hereunder, the replaced Issuing Lender shall remain a party hereto and shall continue to have all the rights and obligations of
+an Issuing Lender under this Agreement with respect to Letters of Credit issued by it prior to such replacement, but shall not be required
+to issue additional Letters of Credit.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+

@@ -1,0 +1,832 @@
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b><a name="sp3_027"></a>SECTION&nbsp;2</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b>AMOUNT
+AND TERMS OF COMMITMENTS</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.1.</b></font></td><td style="text-align: justify"><b><a name="sp3_002"></a>Revolving Credit Commitments.</b></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Subject
+to the terms and conditions hereof, each Revolving Lender severally agrees to make revolving credit loans (�<u>Revolving Credit
+Loans</u>�) in Dollars to the Borrower from time to time during the Commitment Period so long as after giving effect thereto (i)&nbsp;the
+Available Revolving Credit Commitment of each Revolving Lender is greater than or equal to zero and (ii)&nbsp;the Aggregate Total Outstandings
+of all Lenders do not exceed the Aggregate Revolving Credit Commitments. During the Commitment Period, the Borrower may use the Revolving
+Credit Commitments by borrowing, prepaying the Revolving Credit Loans in whole or in part, and reborrowing, all in accordance with the
+terms and conditions hereof.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->30<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font: 10pt Times New Roman, Times, Serif">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Revolving Credit Loans may from time to time be (i)&nbsp;Eurodollar Loans, (ii)&nbsp;ABR Loans or (iii)&nbsp;a combination thereof, as
+determined by the Borrower and notified to the Administrative Agent in accordance with <u>subsections 2.2</u> and <u>3.2</u>, <u>provided</u>
+that no Revolving Credit Loan shall be made as a Eurodollar Loan after the day that is one month prior to the Termination Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_003"></a>Procedure
+for Revolving Credit Borrowing. </b>The Borrower may borrow under the Revolving Credit Commitments during the Commitment Period on any
+Business Day, provided that the Borrower shall give the Administrative Agent irrevocable notice (which notice must be received by the
+Administrative Agent prior to (x)&nbsp;with respect to Eurodollar Loans, 10:00 A.M., New York City time, or (y)&nbsp;with respect to
+ABR Loans, 1:00 P.M., New York City time: (a)&nbsp;three Business Days prior to the requested Borrowing Date, if all or any part of the
+requested Revolving Credit Loans are to be initially Eurodollar Loans or (b)&nbsp;on the requested Borrowing Date, otherwise), in each
+case specifying (i)&nbsp;the amount to be borrowed, (ii)&nbsp;the requested Borrowing Date, (iii)&nbsp;whether the borrowing is to be
+of Eurodollar Loans, ABR Loans or a combination thereof and (iv)&nbsp;if the borrowing is to be entirely or partly of Eurodollar Loans,
+the amount of such Type of Loan and the length of the initial Interest Period therefor. Each borrowing under the Revolving Credit Commitments
+(other than a borrowing under <u>subsections 2.16</u> and <u>5.5</u>) shall be in an amount equal to (x)&nbsp;in the case of ABR Loans,
+$5,000,000 or a whole multiple of $1,000,000 in excess thereof (or, if the Aggregate Available Revolving Credit Commitments are less
+than $1,000,000, such lesser amount) and (y)&nbsp;in the case of Eurodollar Loans, $5,000,000 or a whole multiple of $1,000,000 in excess
+thereof. Upon receipt of any such notice from the Borrower, the Administrative Agent shall promptly notify each Revolving Lender thereof.
+Prior to (x)&nbsp;with respect to Eurodollar Loans, 11:00 A.M., New York City time, or (y)&nbsp;with respect to ABR Loans, 2:00 P.M.,
+New York City time, on the Borrowing Date requested by the Borrower, each Revolving Lender will make an amount equal to its Funding Commitment
+Percentage of the principal amount of the Revolving Credit Loans requested to be made on such Borrowing Date available to the Administrative
+Agent for the account of the Borrower at the office of the Administrative Agent specified in writing by the Administrative Agent to the
+Lenders in funds immediately available to the Administrative Agent. Except as otherwise provided in <u>subsection 2.16</u>, such borrowing
+will then be made available to the Borrower by the Administrative Agent crediting the account of the Borrower with the aggregate of the
+amounts made available to the Administrative Agent by the Revolving Lenders and in like funds as received by the Administrative Agent.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.3.</b></font></td><td style="text-align: justify"><b><a name="sp3_004"></a>Reserved.</b></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.4.</b></font></td><td style="text-align: justify"><b><a name="sp3_005"></a>Reserved.</b></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.5.</b></font></td><td style="text-align: justify"><b><a name="sp3_006"></a>Fees.</b></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><u>Facility
+Fee</u>. The Borrower agrees to pay to the Administrative Agent for the account of each Revolving Lender a facility fee for the period
+from and including the Fee Commencement Date to the Termination Date computed at the Facility Fee Rate on the actual daily amount of the
+Revolving Credit Commitment of such Revolving Lender (regardless of usage and, following terminating the Revolving Credit Commitments,
+on the actual daily amount of the Aggregate Total Outstandings of such Revolving Lender) during the period for which payment is made,
+subject to adjustment as provided in <u>subsection 2.19</u> and payable quarterly in arrears on the last day of each March, June, September&nbsp;and
+December, subject to the provisions of <u>subsection 3.7</u>, and on the Termination Date or such earlier date on which the Revolving
+Credit Commitments shall terminate as provided herein, commencing on the first of such dates to occur after the date hereof.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->31<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><u>Agency
+Fee Letter</u>. The Borrower agrees to pay to the Administrative Agent the fees in the amounts and on the dates set forth in the Agency
+Fee Letter.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_007"></a>Termination
+or Reduction of Revolving Credit Commitments. </b>The Borrower shall have the right, upon not less than three Business Days� notice
+to the Administrative Agent, to terminate the Revolving Credit Commitments or, from time to time, to reduce the amount of the Revolving
+Credit Commitments; <u>provided</u> that no such termination or reduction shall be permitted if, after giving effect thereto and to any
+prepayments of the Loans made on the effective date thereof, either (a)&nbsp;the Aggregate Available Revolving Credit Commitments would
+not be greater than or equal to zero or (b)&nbsp;the Available Revolving Credit Commitments of any Revolving Lender would not be greater
+than or equal to zero; <u>provided further</u> that such notice&nbsp;delivered by the Borrower may state that such notice is conditioned
+upon the effectiveness of other credit facilities, in which case such notice may be revoked by the Borrower (by notice to the Administrative
+Agent on or prior to the specified effective date) if such condition is not satisfied. Any such reduction shall be in an amount equal
+to $5,000,000 or a whole multiple thereof and shall reduce permanently the Revolving Credit Commitments then in effect. The Administrative
+Agent shall give each Revolving Lender prompt notice of any notice received from the Borrower pursuant to this <u>subsection 2.6</u>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_008"></a>Repayment
+of Loans. </b>The Borrower hereby unconditionally promises to pay to the Administrative Agent for the account of each Revolving Lender
+the then unpaid principal amount of each Revolving Credit Loan of such Lender on the Termination Date (or such earlier date on which
+the Revolving Credit Loans become due and payable pursuant to <u>Section&nbsp;10</u>). The Borrower hereby further agrees to pay interest
+on the unpaid principal amount of the Revolving Credit Loans from time to time outstanding from the date hereof until payment in full
+thereof at the rates per annum, and on the dates, set forth in <u>subsection 3.4</u>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_009"></a>CAF
+Advances. </b>Subject to the terms and conditions of this Agreement, the Borrower may borrow CAF Advances from time to time on any Business
+Day during the CAF Advance Availability Period. LIBO Rate CAF Advances may be denominated in Dollars or a lawful eurocurrency that is
+(x)&nbsp;readily available and freely transferable and convertible into dollars, (y)&nbsp;available in the London interbank deposit market
+and (z)&nbsp;agreed to by the Administrative Agent and the bidding Lender. CAF Advances may be borrowed in amounts such that the amount
+of Aggregate Total Outstandings of all Lenders at any time shall not exceed the Aggregate Revolving Credit Commitments at such time.
+Within the limits and on the conditions hereinafter set forth with respect to CAF Advances, the Borrower from time to time may borrow,
+repay and request new CAF Advances.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_010"></a>Procedure
+for CAF Advance Borrowing.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Borrower shall request CAF Advances by delivering a CAF Advance Request to the Administrative Agent, not later than 11:00 AM (New York
+City time, or in the case of a LIBO CAF Advance Request for any non-Dollar currency, London time) five Business Days prior to the proposed
+Borrowing Date (in the case of a LIBO Rate CAF Advance Request), and not later than 10:00 AM. (New York City time) one Business Day prior
+to the proposed Borrowing Date (in the case of a Fixed Rate CAF Advance Request). Each CAF Advance Request in respect of any Borrowing
+Date may solicit bids for CAF Advances on such Borrowing Date in an aggregate principal amount of $5,000,000 or an integral multiple of
+$1,000,000 in excess thereof (or, in the case of CAF Advances to be denominated in a currency other than Dollars, an amount in such currency
+the Dollar Equivalent of which is equal to $5,000,000 or $1,000,000, as the case may be) and having not more than three alternative CAF
+Advance Maturity Dates. The CAF Advance Maturity Date for each CAF Advance shall be the date set forth therefor in the relevant CAF Advance
+Request, which date shall be (i)&nbsp;not less than 7 days nor more than 360 days after the Borrowing Date therefor, in the case of a
+Fixed Rate CAF Advance, (ii)&nbsp;not less than 30 days nor more than 360 days after the Borrowing Date therefor, in the case of a LIBO
+Rate CAF Advance and (iii)&nbsp;not later than the Termination Date, in the case of any CAF Advance. The Administrative Agent shall notify
+each Revolving Lender promptly by facsimile transmission of the contents of each CAF Advance Request received by the Administrative Agent.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 7 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->32<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>In
+the case of a LIBO Rate CAF Advance Request, upon receipt of notice from the Administrative Agent of the contents of such CAF Advance
+Request, each Revolving Lender may elect, in its sole discretion, to offer irrevocably to make one or more CAF Advances at the applicable
+Eurocurrency Rate <u>plus</u> (or minus) a margin determined by such Revolving Lender in its sole discretion for each such CAF Advance.
+Any such irrevocable offer shall be made by delivering a CAF Advance Offer to the Administrative Agent, before 10:30 A.M.&nbsp;(New York
+City time) on the day that is three Business Days before the proposed Borrowing Date, setting forth:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+maximum amount of CAF Advances for each CAF Advance Maturity Date and the aggregate maximum amount of CAF Advances for all CAF Advance
+Maturity Dates which such Revolving Lender would be willing to make (which amounts may, subject to <u>subsection 2.8</u>, exceed such
+Lender�s Revolving Credit Commitment); and</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+margin above or below the applicable Eurocurrency Rate at which such Revolving Lender is willing to make each such CAF Advance.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">The Administrative Agent shall advise the Borrower before 11:00 A.M.&nbsp;(New
+York City time) on the date which is three Business Days before the proposed Borrowing Date of the contents of each such CAF Advance Offer
+received by it. If the Administrative Agent, in its capacity as a Revolving Lender, shall elect, in its sole discretion, to make any such
+CAF Advance Offer, it shall advise the Borrower of the contents of its CAF Advance Offer before 10:15 A.M.&nbsp;(New York City time) on
+the date which is three Business Days before the proposed Borrowing Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>In
+the case of a Fixed Rate CAF Advance Request, upon receipt of notice from the Administrative Agent of the contents of such CAF Advance
+Request, each Revolving Lender may elect, in its sole discretion, to offer irrevocably to make one or more CAF Advances at a rate of interest
+determined by such Revolving Lender in its sole discretion for each such CAF Advance. Any such irrevocable offer shall be made by delivering
+a CAF Advance Offer to the Administrative Agent before 9:30 A.M.&nbsp;(New York City time) on the Borrowing Date, setting forth:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+maximum amount of CAF Advances for each CAF Advance Maturity Date, and the aggregate maximum amount for all CAF Advance Maturity Dates,
+which such Lender would be willing to make (which amounts may, subject to <u>subsection 2.8</u>, exceed such Revolving Lender�s
+Revolving Credit Commitment); and</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+rate of interest at which such Revolving Lender is willing to make each such CAF Advance.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Administrative Agent shall advise the Borrower before 10:00 A.M.&nbsp;(New
+York City time) on the proposed Borrowing Date of the contents of each such CAF Advance Offer received by it. If the Administrative Agent,
+in its capacity as a Revolving Lender, shall elect, in its sole discretion, to make any such CAF Advance Offer, it shall advise the Borrower
+of the contents of its CAF Advance Offer before 9:15 A.M.&nbsp;(New York City time) on the proposed Borrowing Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 8 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->33<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Before
+11:30 A.M.&nbsp;(New York City time, or in the case of a CAF Advance requested by a LIBO Rate CAF Advance Request for any non-Dollar currency,
+London time) three Business Days before the proposed Borrowing Date (in the case of CAF Advances requested by a LIBO Rate CAF Advance
+Request) and before 10:30 A.M.&nbsp;(New York City time) on the proposed Borrowing Date (in the case of CAF Advances requested by a Fixed
+Rate CAF Advance Request), the Borrower, in its absolute discretion, shall:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>cancel
+such CAF Advance Request by giving the Administrative Agent telephone notice to that effect, or</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>by
+giving telephone notice to the Administrative Agent (immediately confirmed by delivery to the Administrative Agent of a CAF Advance Confirmation
+by facsimile transmission) (A)&nbsp;subject to the provisions of <u>subsection 2.9(e)</u>, accept one or more of the offers made by any
+Revolving Lender or Revolving Lenders pursuant to <u>subsection 2.9(b)</u>&nbsp;or <u>subsection 2.9(c)</u>, as the case may be, and (B)&nbsp;reject
+any remaining offers made by Revolving Lenders pursuant to <u>subsection 2.9(b)</u>&nbsp;or <u>subsection 2.9(c)</u>, as the case may
+be.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Borrower�s acceptance of CAF Advances in response to any CAF Advance Offer shall be subject to the following limitations:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+amount of CAF Advances accepted for each CAF Advance Maturity Date specified by any Revolving Lender in its CAF Advance Offer shall not
+exceed the maximum amount for such CAF Advance Maturity Date specified in such CAF Advance Offer;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+aggregate amount of CAF Advances accepted for all CAF Advance Maturity Dates specified by any Revolving Lender in its CAF Advance Offer
+shall not exceed the aggregate maximum amount specified in such CAF Advance Offer for all such CAF Advance Maturity Dates;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+Borrower may not accept offers for CAF Advances for any CAF Advance Maturity Date in an aggregate principal amount in excess of the maximum
+principal amount requested in the related CAF Advance Request; and</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>if
+the Borrower accepts any of such offers, it must accept offers based solely upon pricing for each relevant CAF Advance Maturity Date and
+upon no other criteria whatsoever, and if two or more Revolving Lenders submit offers for any CAF Advance Maturity Date at identical pricing
+and the Borrower accepts any of such offers but does not wish to (or, by reason of the limitations set forth in <u>subsection 2.8</u>,
+cannot) borrow the total amount offered by such Revolving Lenders with such identical pricing, the Borrower shall accept offers from all
+of such Revolving Lenders in amounts allocated among them pro rata according to the amounts offered by such Lenders (with appropriate
+rounding, in the sole discretion of the Borrower, to assure that each accepted CAF Advance is an integral multiple of $1,000,000 or, in
+the case of CAF Advances to be denominated in a currency other than Dollars, an amount in such currency the Dollar Equivalent of which
+is approximately equal to $1,000,000); <u>provided</u> that if the number of Revolving Lenders that submit offers for any CAF Advance
+Maturity Date at identical pricing is such that, after the Borrower accepts such offers pro rata in accordance with the foregoing provisions
+of this paragraph, the CAF Advance to be made by any such Revolving Lender would be less than $5,000,000 (or, in the case of CAF Advances
+to be denominated in a currency other than Dollars, an amount in such currency the Dollar Equivalent of which is approximately equal to
+$5,000,000) principal amount, the number of such Revolving Lenders shall be reduced by the Administrative Agent by lot until the CAF Advances
+to be made by each such remaining Revolving Lender would be in a principal amount of $5,000,000 or an integral multiple of $1,000,000
+in excess thereof (or, in the case of CAF Advances to be denominated in a currency other than Dollars, an amount in such currency the
+Dollar Equivalent of which is approximately equal to $5,000,000 or an integral multiple of $1,000,000 in excess thereof).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 9 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->34<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+the Borrower notifies the Administrative Agent that a CAF Advance Request is cancelled pursuant to <u>subsection 2.9(d)(i)</u>, the Administrative
+Agent shall give prompt telephonic or written notice thereof to the Revolving Lenders.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+the Borrower accepts pursuant to <u>subsection 2.9(d)(ii)</u>&nbsp;one or more of the offers made by any Revolving Lender or Revolving
+Lenders, the Administrative Agent promptly shall notify each Revolving Lender which has made such an offer of (i)&nbsp;the aggregate amount
+of such CAF Advances to be made on such Borrowing Date for each CAF Advance Maturity Date and (ii)&nbsp;the acceptance or rejection of
+any offers to make such CAF Advances made by such Revolving Lender. Before 12:00 Noon (New York City time) on the Borrowing Date specified
+in the applicable CAF Advance Request (in the case of CAF Advances denominated in Dollars) and before the funding time for the relevant
+currency from time to time specified by the Administrative Agent by notice to the Revolving Lenders (in the case of CAF Advances denominated
+in any currency other than Dollars), each Revolving Lender whose CAF Advance Offer has been accepted shall make available to the Administrative
+Agent the amount of CAF Advances to be made by such Revolving Lender, in immediately available funds, at the funding office for the relevant
+currency specified from time to time by the Administrative Agent by notice to the Revolving Lenders. The Administrative Agent will make
+such funds available to the Borrower as soon as practicable on such date at such office of the Administrative Agent. As soon as practicable
+after each Borrowing Date, the Administrative Agent shall notify each Revolving Lender of the aggregate amount of CAF Advances advanced
+on such Borrowing Date and the respective CAF Advance Maturity Dates thereof.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_011"></a>Repayment
+of CAF Advances. </b>The Borrower hereby unconditionally promises to pay to the Administrative Agent, for the account of each Revolving
+Lender which has made a CAF Advance, on the applicable CAF Advance Maturity Date the then unpaid principal amount of such CAF Advance.
+The Borrower shall have the right to prepay any principal amount of any CAF Advance only with the consent of the Revolving Lender to
+which such CAF Advance is owed. The Borrower hereby further agrees to pay interest on the unpaid principal amount of each CAF Advance
+from the Borrowing Date to the applicable CAF Advance Maturity Date at the rate of interest specified in the CAF Advance Offer accepted
+by the Borrower in connection with such CAF Advance (calculated on the basis of a 360-day year for actual days elapsed), payable on each
+applicable CAF Advance Interest Payment Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_012"></a>Certain
+Restrictions with Respect to CAF Advances</b>. A CAF Advance Request may request offers for CAF Advances to be made on not more than
+one Borrowing Date and to mature on not more than three CAF Advance Maturity Dates. No CAF Advance Request may be submitted earlier than
+five Business Days after submission of any other CAF Advance Request.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_013"></a>Multicurrency
+Commitments. </b>Subject to the terms and conditions hereof, each Multicurrency Lender severally agrees to make revolving credit loans
+(each, a �<u>Multicurrency Loan</u>�) in any Available Foreign Currency to the Borrower from time to time during the Commitment
+Period so long as after giving effect thereto (a)&nbsp;the Available Multicurrency Commitment of each Multicurrency Lender is greater
+than or equal to zero, (b)&nbsp;the aggregate outstanding principal amount of Multicurrency Loans, <u>plus</u> (i)&nbsp;the aggregate
+outstanding principal amount of Local Currency Loans and (ii)&nbsp;the aggregate outstanding amount of L/C Obligations attributable to
+Letters of Credit denominated in any currency other than Dollars, does not exceed an amount the Dollar Equivalent of which is the Multicurrency
+Sublimit and (c)&nbsp;the Aggregate Total Outstandings of all Lenders do not exceed the Aggregate Revolving Credit Commitments. During
+the Commitment Period, the Borrower may use the Multicurrency Commitments by borrowing, repaying the Multicurrency Loans in whole or
+in part, and reborrowing, all in accordance with the terms and conditions hereof. Any Multicurrency Lender may cause its Multicurrency
+Loans to be made by any branch, affiliate or international banking facility of such Multicurrency Lender, <u>provided</u>, that such
+Multicurrency Lender shall remain responsible for all of its obligations hereunder and no additional taxes, costs or other burdens shall
+be imposed upon the Borrower or the Administrative Agent as a result thereof.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 10 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->35<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_014"></a>Repayment
+of Multicurrency Loans. </b>The Borrower hereby unconditionally promises to pay to the Administrative Agent for the account of each Multicurrency
+Lender the then unpaid principal amount of each Multicurrency Loan of such Multicurrency Lender on the Termination Date and on such other
+date(s)&nbsp;and in such other amounts as may be required from time to time pursuant to this Agreement. The Borrower hereby further agrees
+to pay interest on the unpaid principal amount of the Multicurrency Loans advanced to it and from time to time outstanding until payment
+thereof in full at the rates per annum, and on the dates, set forth in <u>subsection 3.4</u>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_015"></a>Procedure
+for Multicurrency Borrowing. </b>The Borrower may request the Multicurrency Lenders to make Multicurrency Loans during the Commitment
+Period on any Business Day by delivering a Notice of Multicurrency Loan Borrowing. Each borrowing under the Multicurrency Commitments
+shall be in an amount in an Available Foreign Currency the Dollar Equivalent of which is equal to at least $1,000,000 (or, if the then
+Aggregate Available Multicurrency Commitments are less than $1,000,000, such lesser amount). Upon receipt of any such Notice of Multicurrency
+Borrowing from the Borrower, the Administrative Agent shall promptly notify each Multicurrency Lender thereof. Not later than the funding
+time, on the applicable Borrowing Date, for the relevant Available Foreign Currency specified from time to time by the Administrative
+Agent by notice to the Borrower and the Multicurrency Lenders each Multicurrency Lender shall make an amount equal to its Multicurrency
+Commitment Percentage of the principal amount of Multicurrency Loans requested to be made on such Borrowing Date available to the Administrative
+Agent at the appropriate funding office for the relevant Available Foreign Currency specified from time to time by the Administrative
+Agent by notice to the Borrower and the Multicurrency Lenders in the relevant Available Foreign Currency and in immediately available
+funds; <u>provided</u> that, unless and until the Administrative Agent shall otherwise direct, any Multicurrency Lender may provide funds
+in the then applicable Dollar Equivalent (including an exchange fee and other normal and customary fees for providing this service as
+determined by the Administrative Agent in its sole discretion) thereof in lieu of the requested currency, so long as the Multicurrency
+Lender has given reasonable notice to the Administrative Agent of its desire and intent to so provide funds therefor promptly after (but
+in any event within one hour of) its receipt of any such notice for a Multicurrency Loan. The amounts made available by each Multicurrency
+Lender will then be made available to the Borrower at such funding office and in like funds as received by the Administrative Agent;
+<u>provided</u>, in the case of Multicurrency Loans for which any Lender has provided funds in Dollars, the Administrative Agent shall
+provide such funds to the applicable Borrower in the requested currency.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_016"></a>Termination
+or Reduction of Multicurrency Commitments. </b>The Borrower shall have the right, upon not less than three Business Days� notice
+to the Administrative Agent (which shall give prompt notice thereof to each Multicurrency Lender), to terminate the Multicurrency Commitments
+or, from time to time, to reduce the amount of the Multicurrency Commitments; <u>provided</u> that no such termination or reduction shall
+be permitted if, after giving effect thereto and to any prepayments of the Loans made on the effective date thereof, the Available Multicurrency
+Commitment of any Multicurrency Lender would be less than zero. Any such reduction shall be in an amount equal to U.S. $1,000,000 or
+a whole multiple of U.S. $100,000 in excess thereof and shall reduce permanently the Multicurrency Commitments then in effect; <u>provided
+further</u> that such notice&nbsp;delivered by the Borrower may state that such notice is conditioned upon the effectiveness of other
+credit facilities, in which case such notice may be revoked by the Borrower (by notice to the Administrative Agent on or prior to the
+specified effective date) if such condition is not satisfied.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 11 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->36<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.16.</b></font></td><td style="text-align: justify"><b><a name="sp3_017"></a>Borrowings of Revolving Credit Loans and Refunding of Loans.</b></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+on any Borrowing Date on which the Borrower has requested the Multicurrency Lenders to make Multicurrency Loans (the �<u>Requested
+Multicurrency Loans</u>�),</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+aggregate principal amount of the Requested Multicurrency Loans exceeds the Aggregate Available Multicurrency Commitments on such Borrowing
+Date (before giving effect to the making and payment of any Loans required to be made pursuant to this <u>subsection 2.16</u> on such
+Borrowing Date) and,</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+Dollar Equivalent of the amount of such excess is less than or equal to the aggregate Available Revolving Credit Commitments of all Non-Multicurrency
+Lenders (before giving effect to the making and payment of any Loans pursuant to this <u>subsection 2.16</u> on such Borrowing Date),</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">each Non-Multicurrency Lender shall make a Revolving Credit Loan to
+the Borrower on such Borrowing Date, and the proceeds of such Revolving Credit Loans shall be simultaneously applied to repay outstanding
+Revolving Credit Loans, Local Currency Loans and/or Multicurrency Loans of the Multicurrency Lenders (as directed by the Borrower) in
+each case in amounts such that, after giving effect to (1)&nbsp;such borrowings and repayments and (2)&nbsp;the borrowing from the Multicurrency
+Lenders of the Requested Multicurrency Loans, the Committed Outstanding Percentage of each Lender will equal (as nearly as possible) its
+Revolving Credit Commitment Percentage. To effect such borrowings and repayments, (x)&nbsp;not later than 12:00 Noon, New York City time,
+on such Borrowing Date, the proceeds of such Revolving Credit Loans shall be made available by each Non-Multicurrency Lender to the Administrative
+Agent at its office specified in <u>subsection 13.2</u> in Dollars and in immediately available funds and the Administrative Agent shall
+apply the proceeds of such Revolving Credit Loans toward repayment of outstanding Revolving Credit Loans, Multicurrency Loans and/or Local
+Currency Loans of the Multicurrency Lenders (as directed by the Borrower) and (y)&nbsp;concurrently with the repayment of such Loans on
+such Borrowing Date, (I)&nbsp;the Multicurrency Lenders shall, in accordance with the applicable provisions hereof, make the Requested
+Multicurrency Loans in an aggregate amount equal to the amount so requested by the Borrower (but not in any event greater than the Aggregate
+Available Multicurrency Commitments after giving effect to the making of such repayment of any Loans on such Borrowing Date) and (II)&nbsp;the
+Borrower shall pay to the Administrative Agent for the account of the Lenders whose Loans to the Borrower are repaid on such Borrowing
+Date pursuant to this <u>subsection 2.16</u> all interest accrued on the amounts repaid to the date of repayment, together with any amounts
+payable pursuant to <u>subsection 3.11</u> in connection with such repayment.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Subject
+to the limitations on borrowings contained in a given Local Currency Facility, if on any Borrowing Date on which a Foreign Subsidiary
+Borrower has requested Local Currency Lenders to make Local Currency Loans (the �<u>Requested Local Currency Loans</u>�) under
+a Local Currency Facility to which such Foreign Subsidiary Borrower and Local Currency Lenders are parties, (i)&nbsp;the aggregate principal
+amount of the Requested Local Currency Loans (A)&nbsp;exceeds the aggregate available amount of the commitments of such Local Currency
+Lenders under such Local Currency Facility on such Borrowing Date (before giving effect to the making and payment of any Revolving Credit
+Loans required to be made pursuant to this <u>subsection 2.16</u> on such Borrowing Date) or (B)&nbsp;together with the aggregate then
+outstanding principal amount of Multicurrency Loans and the aggregate outstanding amount of L/C Obligations attributable to Letters of
+Credit denominated in any currency other than Dollars, would exceed an amount of which the Dollar Equivalent is the Multicurrency Sublimit,
+(ii)&nbsp;after giving effect to the Requested Local Currency Loans, the Dollar Equivalent of the aggregate outstanding principal amount
+of Local Currency Loans of such Foreign Subsidiary Borrower will be less than or equal to the aggregate commitments of such Local Currency
+Lenders under such Local Currency Facility and (iii)&nbsp;the Dollar Equivalent of the amount of the excess described in clause (i)&nbsp;above
+is less than or equal to the Aggregate Available Revolving Credit Commitments of all Revolving Lenders other than such Local Currency
+Lenders (before giving effect to the making and payment of any Revolving Credit Loans pursuant to this <u>subsection 2.16</u> on such
+Borrowing Date), each such other Revolving Lender shall make a Revolving Credit Loan to the Borrower, on such Borrowing Date, and the
+proceeds of such Revolving Credit Loans shall be simultaneously applied to repay outstanding Revolving Credit Loans, Multicurrency Loans
+and/or Local Currency Loans of such Local Currency Lenders (as directed by the Borrower) in each case in amounts such that, after giving
+effect to (1)&nbsp;such borrowings and repayments and (2)&nbsp;the borrowing from such Local Currency Lenders of the Requested Local Currency
+Loans, the Committed Outstandings Percentage of each Lender will equal (as nearly as possible) its Revolving Credit Commitment Percentage
+and the Dollar Equivalent of the aggregate outstanding principal amount of Multicurrency Loans and Local Currency Loans will not exceed
+the Multicurrency Sublimit. To effect such borrowings and repayments, (x)&nbsp;not later than 12:00 Noon, New York City time, on such
+Borrowing Date, the proceeds of such Revolving Credit Loans shall be made available by each such other Revolving Lender to the Administrative
+Agent at its office specified in <u>subsection 13.2</u> in Dollars and in immediately available funds and the Administrative Agent shall
+apply the proceeds of such Revolving Credit Loans toward the repayment of outstanding Revolving Credit Loans, Multicurrency Loans and/or
+Local Currency Loans of such Local Currency Lenders (as directed by the Borrower) and (y)&nbsp;concurrently with the repayment of such
+Revolving Credit Loans on such Borrowing Date, (I)&nbsp;such Local Currency Lenders shall, in accordance with the applicable provisions
+hereof, make the Requested Local Currency Loans in an aggregate amount equal to the amount so requested by such Foreign Subsidiary Borrower
+and (II)&nbsp;the relevant Foreign Subsidiary Borrower shall pay to the Administrative Agent for the account of the Revolving Lenders
+whose Loans to such Foreign Subsidiary Borrower are repaid on such Borrowing Date pursuant to this <u>subsection 2.16</u> all interest
+accrued on the amounts repaid to the date of repayment, together with any amounts payable pursuant to <u>subsection 3.11</u> in connection
+with such repayment.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 12 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->37<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+any borrowing of Revolving Credit Loans is required pursuant to this <u>subsection 2.16</u>, the Borrower shall notify the Administrative
+Agent in the manner provided for Revolving Credit Loans in <u>subsection 2.2</u>, except that the minimum borrowing amounts set forth
+in <u>subsection 2.2</u> shall not be applicable to the extent that such minimum borrowing amounts exceed the amounts of Revolving Credit
+Loans required to be made pursuant to this <u>subsection&nbsp;2.16</u>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b><a name="sp3_018"></a>Increase
+of Revolving Credit Commitments. </b>The Borrower shall have the right to increase the Revolving Credit Commitments from time to time
+in an aggregate principal amount not to exceed $500,000,000 upon prior notice to the Administrative Agent and pursuant to procedures
+established by the Administrative Agent and acceptable to the Borrower. Each such increase (each, an �<u>Additional Revolving Credit
+Commitment</u>�) shall be in a principal amount of at least $25,000,000, and no such increase shall become effective (i)&nbsp;if
+a Default or Event of Default then exists or would exist immediately after giving effect thereto and (ii)&nbsp;unless all representations
+and warranties made by the Borrower required to be made pursuant to <u>subsection 7.2</u> in this Agreement and the other Loan Documents
+are true in all material respects as of the date of such increase. Each bank or other financial institution (other than an existing Lender
+or Lender Affiliate providing any Additional Revolving Credit Commitments) shall be reasonably acceptable to the Administrative Agent
+and the Borrower and shall be a �Lender� for all purposes under this Agreement. No Lender shall have any obligation to provide
+any such Additional Revolving Credit Commitments unless and until it shall expressly agree under the applicable procedures to do so,
+at which time such Lender shall be deemed to have made an Additional Revolving Credit Commitment. The Lenders agree that this Agreement
+and the other Loan Documents may be amended from time to time with the consent of the Administrative Agent and the Borrower to reflect
+such Additional Revolving Credit Commitments in connection with this <u>subsection 2.17</u>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font></p>
+
+<!-- Field: Page; Sequence: 13 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->38<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="background-color: lightgrey"></font>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.18.</b></font></td><td style="text-align: justify"><b><a name="sp3_019"></a>Cash Collateral</b>.</td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>At
+any time that (i)&nbsp;there shall exist a Defaulting Lender and (ii)&nbsp;the Rating provided by (x)&nbsp;S&amp;P is less than BBB or
+(y)&nbsp;Moody�s is less than Baa2, within twenty Business Days after receipt of the written request of the Administrative Agent
+or the Issuing Lender, the Borrower shall deliver to the Administrative Agent Cash Collateral in an amount sufficient to cover all Fronting
+Exposure (after giving effect to <u>subsection 2.19(a)(iv)</u>&nbsp;and any Cash Collateral provided by the Defaulting Lender); <u>provided
+however</u>, notwithstanding the foregoing, in lieu of providing Cash Collateral to cover all or a portion of the Fronting Exposure, at
+any time within twenty Business Days after the receipt of written request of the Administrative Agent or the Issuing Lender, the Borrower
+(but only to the extent necessary to cover Fronting Exposure which is not covered by Cash Collateral) (i)&nbsp;may request that all or
+a portion of the Revolving Credit Commitments of such Defaulting Lender be re-allocated to another Lender or Lenders (as acceptable to
+each Lender in its sole discretion) or (ii)&nbsp;shall have the option to exercise its right to increase the Revolving Credit Commitments
+under <u>subsection&nbsp;2.17</u> by obtaining Additional Revolving Credit Commitments from one or more financial institutions (which
+may be a Lender) in an amount to cover all or a portion of the Fronting Exposure; <u>provided further</u> that the only limitation applicable
+to such exercise shall be that the aggregate amount of such increases pursuant to <u>Section&nbsp;2.17</u> shall not exceed $500,000,000.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">All
+Cash Collateral (other than credit support not constituting funds subject to deposit) shall be maintained in blocked, interest bearing
+deposit accounts at the Administrative Agent. The Borrower, and to the extent provided by any Lender, such Lender, hereby grants to (and
+subjects to the control of) the Administrative Agent, for the benefit of the Administrative Agent, the Issuing Lender and the Lenders,
+and agrees to maintain, a first priority security interest in all such cash, deposit accounts and all balances therein, and all other
+property so provided as collateral pursuant hereto, and in all proceeds of the foregoing, all as security for the obligations to which
+such Cash Collateral may be applied pursuant to <u>subsection 2.18(c)</u>. If at any time the Administrative Agent reasonably determines
+that Cash Collateral is subject to any right or claim of any Person that is prior to the claim of the Administrative Agent as herein
+provided, or that the total amount of such Cash Collateral is less than the applicable Fronting Exposure and other obligations secured
+thereby, the Borrower or the relevant Defaulting Lender will, promptly upon demand by the Administrative Agent, pay or provide to the
+Administrative Agent additional Cash Collateral in an amount sufficient to eliminate such deficiency.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">Notwithstanding
+anything to the contrary contained in this Agreement, Cash Collateral provided under any of this <u>subsection 2.18</u>, <u>subsection
+5.1</u> or <u>2.19</u> or <u>Section&nbsp;10</u> in respect of Letters of Credit shall be held and applied to the satisfaction of the
+specific L/C Obligations, obligations to fund participations therein (including, as to Cash Collateral provided by a Defaulting Lender,
+any interest accrued on such obligation) and other obligations for which the Cash Collateral was so provided, prior to any other application
+of such property as may be provided for herein.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">Cash
+Collateral (or the appropriate portion thereof) provided to reduce Fronting Exposure or other obligations shall be released promptly
+following (i)&nbsp;the elimination of the applicable Fronting Exposure or other obligations giving rise thereto (including by the termination
+of Defaulting Lender status of the applicable Lender (or, as appropriate, its assignee following compliance with <u>subsection 13.6</u>))
+or (ii)&nbsp;the Administrative Agent�s good faith determination that there exists excess Cash Collateral; <u>provided</u>, <u>however</u>,
+(x)&nbsp;that Cash Collateral furnished by or on behalf the Borrower shall not be released during the continuance of an Event of Default
+(and following application as provided in this <u>subsection 2.18</u> may be otherwise applied in accordance with <u>Section&nbsp;10</u>),
+and (y)&nbsp;the Person providing Cash Collateral and the Issuing Lender, as applicable, may agree that Cash Collateral shall not be
+released but instead held to support Fronting Exposure or other obligations with respect to requested but unfunded extensions of credit.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Page; Sequence: 14 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->39<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.19.</b></font></td><td style="text-align: justify"><font style="color: #191919"><b><a name="sp3_020"></a>Defaulting Lenders.</b></font></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">Notwithstanding
+anything to the contrary contained in this Agreement, if any Lender becomes a Defaulting Lender, then, until such time as that Lender
+is no longer a Defaulting Lender, to the extent permitted by applicable law:</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">That
+Defaulting Lender�s right to approve or disapprove any amendment, waiver or consent with respect to this Agreement shall be restricted
+as set forth in <u>subsection 13.1</u>.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">Any
+payment of principal, interest, fees or other amounts received by the Administrative Agent for the account of that Defaulting Lender
+(whether voluntary or mandatory, at maturity, pursuant to <u>Section&nbsp;10</u> or otherwise, and including any amounts made available
+to the Administrative Agent by that Defaulting Lender pursuant to <u>subsection 13.7</u>), shall be applied at such time or times as
+may be determined by the Administrative Agent as follows: <i>first</i>, to the payment of any amounts owing by that Defaulting Lender
+to the Administrative Agent hereunder; <i>second</i>, to the payment on a pro rata basis of any amounts owing by that Defaulting Lender
+to the Issuing Lender hereunder; <i>third</i>, if so determined by the Administrative Agent or requested by the Issuing Lender, to be
+held as Cash Collateral for future funding obligations of that Defaulting Lender of any participation in any Letter of Credit; <i>fourth</i>,
+as the Borrower may request (so long as no Event of Default exists), to the funding of any Loan in respect of which that Defaulting Lender
+has failed to fund its portion thereof as required by this Agreement, as determined by the Administrative Agent; <i>fifth</i>, if so
+determined by the Administrative Agent and the Borrower, to be held in an interest bearing deposit account and released in order to satisfy
+obligations of that Defaulting Lender to fund Loans under this Agreement; <i>sixth</i>, to the payment of any amounts owing to the Lenders
+or the Issuing Lender as a result of any judgment of a court of competent jurisdiction obtained by any Lender or the Issuing Lender against
+that Defaulting Lender as a result of that Defaulting Lender�s breach of its obligations under this Agreement; <i>seventh</i>,
+so long as no Event of Default exists, to the payment of any amounts owing to the Borrower as a result of any judgment of a court of
+competent jurisdiction obtained by the Borrower against that Defaulting Lender as a result of that Defaulting Lender�s breach of
+its obligations under this Agreement; and <i>eighth</i>, to that Defaulting Lender or as otherwise directed by a court of competent jurisdiction;
+provided that if (x)&nbsp;such payment is a payment of the principal amount of any Loans or L/C Obligations in respect of which that
+Defaulting Lender has not fully funded its appropriate share and (y)&nbsp;such Loans or L/C Obligations were made at a time when the
+conditions set forth in <u>subsection 7.2</u> were satisfied or waived, such payment shall be applied solely to pay the Loans of, and
+L/C Obligations owed to, all non-Defaulting Lenders on a pro rata basis prior to being applied to the payment of any Loans of, or L/C
+Obligations owed to, that Defaulting Lender. Any payments, prepayments or other amounts paid or payable to a Defaulting Lender that are
+applied (or held) to pay amounts owed by a Defaulting Lender or to post Cash Collateral pursuant to this <u>subsection 2.19(a)(ii)</u>&nbsp;shall
+be deemed paid to and redirected by that Defaulting Lender, and each Lender irrevocably consents to the foregoing.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">That
+Defaulting Lender (x)&nbsp;shall be entitled to receive any facility fee pursuant to <u>subsection 2.5(a)</u>&nbsp;for any period during
+which that Lender is a Defaulting Lender only to extent allocable to the sum of (1)&nbsp;the Dollar Equivalent of the principal amount
+of the Loans funded by it and (2)&nbsp;its Revolving Credit Commitment Percentage of the stated amount of Letters of Credit for which
+it has provided Cash Collateral pursuant to <u>subsection 2.14</u>, <u>2.19(a)(ii)</u>&nbsp;or <u>5.1</u>, as applicable (and the Borrower
+shall (A)&nbsp;be required to pay to the Issuing Lender, as applicable, the amount of such fee allocable to its Fronting Exposure arising
+from that Defaulting Lender and (B)&nbsp;not be required to pay the remaining amount of such fee that otherwise would have been required
+to have been paid to that Defaulting Lender) and (y)&nbsp;shall be limited in its right to receive Letter of Credit fees as provided
+in <u>subsection 5.3(a)</u>.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 15 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->40<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">During
+any period in which there is a Defaulting Lender, for purposes of computing the amount of the obligation of each non-Defaulting Lender
+to acquire, refinance or fund participations in Letters of Credit pursuant to <u>subsections 5.1</u> and <u>5.4(a)</u>, the �Revolving
+Credit Commitment Percentage� of each non-Defaulting Lender shall be computed without giving effect to the Revolving Credit Commitment
+of that Defaulting Lender; <u>provided</u>, that, (i)&nbsp;each such reallocation shall be given effect only if, at the date the applicable
+Lender becomes a Defaulting Lender, no Event of Default exists; and (ii)&nbsp;the aggregate obligation of each non-Defaulting Lender
+to acquire, refinance or fund participations in Letters of Credit shall not exceed the positive difference, if any, of (1)&nbsp;the Revolving
+Credit Commitment of that non-Defaulting Lender <i>minus</i> (2)&nbsp;the Dollar Equivalent of the principal amount of the Loans of that
+Lender.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font style="color: #191919">If
+the Borrower, the Administrative Agent and the Issuing Lender agree in writing that a Defaulting Lender should no longer be deemed to
+be a Defaulting Lender, the Administrative Agent will so notify the parties hereto, whereupon as of the effective date specified in such
+notice and subject to any conditions set forth therein (which may include arrangements with respect to any Cash Collateral), that Lender
+will, to the extent applicable, purchase that portion of outstanding Revolving Credit Loans of the other Lenders or take such other actions
+as the Administrative Agent may determine to be necessary to cause the Revolving Credit Loans and funded and unfunded participations
+in Letters of Credit to be held on a pro rata basis by the Revolving Lenders in accordance with their Revolving Credit Commitment Percentages
+(without giving effect to <u>subsection 2.19(a)(iv)</u>), whereupon that Lender will cease to be a Defaulting Lender; <u>provided</u>
+that no adjustments will be made retroactively with respect to fees accrued or payments made by or on behalf of the Borrower while that
+Lender was a Defaulting Lender; and <u>provided</u>, <u>further</u>, that except to the extent otherwise expressly agreed by the affected
+parties, no change hereunder from Defaulting Lender to Lender will constitute a waiver or release of any claim of any party hereunder
+arising from that Lender�s having been a Defaulting Lender.</font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+any Lender is a Defaulting Lender, then the Borrower may, at its sole expense and effort, upon notice to such Defaulting Lender and the
+Administrative Agent, require such Defaulting Lender to assign and delegate, without recourse (in accordance with and subject to the restrictions
+contained in, and consents required by, <u>subsection 13.6</u>), all of its interests, rights and obligations under this Agreement and
+the related Loan Documents to an assignee that shall assume such obligations (which assignee may be another Lender, if a Lender accepts
+such assignment), <u>provided</u> that:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>the
+Borrower shall have paid to the Administrative Agent the assignment fee specified in <u>subsection 13.6</u>;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>such
+Defaulting Lender shall have received payment of an amount equal to 100% of the outstanding principal of its Loans, accrued interest thereon,
+accrued fees and all other amounts payable to it hereunder and under the other Loan Documents (including any amounts under <u>subsection
+3.11</u>) from the assignee (to the extent of such outstanding principal and accrued interest and fees) or the Borrower (in the case of
+all other amounts);</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>such
+assignment does not conflict with applicable laws; and</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>such
+Defaulting Lender shall not be required to sign and deliver any assignment form in order for such assignment to become effective.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin: 0pt 0">A Lender shall not be required to make any such assignment or delegation
+if, prior thereto, as a result of a waiver by such Lender or otherwise, the circumstances entitling the Borrower to require such assignment
+and delegation cease to apply.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 16 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->41<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tbody><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"></td><td style="width: 0.5in; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>2.20.</b></font></td><td style="text-align: justify"><b><a name="sp3_021"></a>Extension of Termination Date.</b></td>
+</tr></tbody></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Borrower may, by sending an Extension Request to the Administrative Agent (in which case the Administrative Agent shall promptly deliver
+a copy to each of the Lenders), at least three months in advance of the Termination Date in effect at such time (including at any time
+prior thereto on or after any anniversary of the Closing Date), request that the Lenders extend such Termination Date then in effect to
+the first anniversary of the Termination Date then in effect. Each Lender, acting in its sole discretion, shall, by notice to the Administrative
+Agent given not later than the date that is the 20<sup>th</sup> day after the date of the Extension Request, or if such day is not a Business
+Day, the immediately following Business Day (the �<u>Response Date</u>�) advise the Administrative Agent in writing whether
+or not such Lender agrees to such extension (each Lender that so advises the Administrative Agent that it will not extend the Termination
+Date, being referred to herein as a �<u>Non-extending Lender</u>�); <u>provided</u> that any Lender that does not advise the
+Administrative Agent by the Response Date and any Defaulting Lender shall be deemed to be a Non-extending Lender. The election of any
+Lender to agree to such extension shall not obligate any other Lender to agree.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>(i)&nbsp;If,
+on the Response Date, Lenders holding Revolving Credit Commitments that aggregate to 50% or more of the total Revolving Credit Commitments
+shall not have agreed to extend the Termination Date, then such Termination Date shall not be so extended and the outstanding principal
+balance of all Loans and other amounts payable hereunder shall be payable on such Termination Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>If
+(and only if), on the Response Date, Lenders holding Revolving Credit Commitments that aggregate to more than 50% of the total Revolving
+Credit Commitments shall have agreed to extend the Termination Date, then the Termination Date that shall so have agreed shall be the
+first anniversary of the current Termination Date (subject to satisfaction of the conditions set forth in <u>subsection 2.20(d)</u>).
+In the event of such extension, the Revolving Credit Commitment of each Non-extending Lender shall terminate on the Termination Date in
+effect prior to such extension, all Loans and other amounts payable hereunder to such Non-extending Lenders shall become due and payable
+on such Termination Date and the total Revolving Credit Commitments of the Lenders hereunder shall be reduced by the Revolving Credit
+Commitments of the Non-extending Lenders so terminated on such Termination Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>In
+the event that the conditions of clause&nbsp;(ii)&nbsp;of paragraph&nbsp;(b)&nbsp;above&nbsp;have been satisfied, the Borrower shall
+have the right on or before the Termination Date in effect prior to the requested extension, at its own expense, to require any Non-extending
+Lender to transfer and assign without recourse (in accordance with and subject to the restrictions contained in <u>subsection&nbsp;13.6</u>)
+all its interests, rights and obligations under this Agreement to one or more banks or other financial institutions identified to the
+Non-extending Lender, which may include any Lender (each an �<u>Additional Lender</u>�), <u>provided</u> that (w)&nbsp;such
+Additional Lender, if not already a Lender hereunder, shall be subject to the approval of the Administrative Agent, the Issuing Lender
+and the Borrower (such approvals not to be unreasonably withheld), (x)&nbsp;such assignment shall become effective as of a date specified
+by the Borrower (which shall not be later than the Termination Date in effect prior to the requested extension); (y)&nbsp;the Additional
+Lender shall pay to such Non-extending Lender in immediately available funds on the effective date of such assignment the principal of
+and interest accrued to the date of payment on the Loans made by it hereunder and all other amounts accrued for its account or owed to
+it hereunder and (z)&nbsp;such Non-extending Lender shall not be required to sign and deliver any assignment form in order for such assignment
+to become effective.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>As
+a condition precedent to each such extension, the Borrower shall deliver to the Administrative Agent a certificate of the Borrower dated
+as of the Termination Date then in effect signed by a Responsible Officer of the Borrower certifying that, before and after giving effect
+to such extension, (A)&nbsp;the representations and warranties contained in <u>Section&nbsp;6</u> (including <u>subsections 6.13 and 6.14</u>)
+and the other Loan Documents are true and correct on and as of the Termination Date, and except that for purposes of this <u>subsection
+2.20</u>, the representations and warranties contained in <u>subsection 6.1</u> shall be deemed to refer to the most recent statements
+furnished pursuant to paragraphs (a)&nbsp;and (b), respectively, of <u>subsection 8.1</u>, and (B)&nbsp;no Default or Event of Default
+exists. In addition, no such extension of the Revolving Credit Facility shall be effective if on the Termination Date then in effect,
+the Aggregate Total Outstandings would exceed the Revolving Credit Commitments then being extended.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 17 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->42<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+

@@ -1,0 +1,169 @@
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b>SECTION&nbsp;12</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b>GUARANTEE</b></font></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Guarantee.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Borrower hereby unconditionally and irrevocably guarantees to the Administrative Agent, for the ratable benefit of the Administrative
+Agent and the Lenders and their respective successors, endorsees, transferees and assigns, the prompt and complete payment and performance
+by the Foreign Subsidiary Borrowers (if any) when due (whether at the stated maturity, by acceleration or otherwise) of the Obligations.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>No
+payment or payments made by the Borrower or any other Person or received or collected by the Administrative Agent or any Lender from the
+Borrower or any other Person by virtue of any action or proceeding or any set-off or appropriation or application, at any time or from
+time to time, in reduction of or in payment of the Obligations shall be deemed to modify, reduce, release or otherwise affect the liability
+of the Borrower hereunder which shall, notwithstanding any such payment or payments, remain liable hereunder for the Obligations until
+the Obligations are paid in full and the Commitments are terminated.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>The
+Borrower agrees that whenever, at any time, or from time to time, it shall make any payment to the Administrative Agent or any Lender
+on account of its liability hereunder, it will notify the Administrative Agent and such Lender in writing that such payment is made under
+this Section&nbsp;for such purpose.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>No
+Subrogation. </b>Notwithstanding any payment or payments made by the Borrower hereunder, or any set-off or application of funds of the
+Borrower by the Administrative Agent or any Lender, the Borrower shall not be entitled to be subrogated to any of the rights of the Administrative
+Agent or any Lender against the Foreign Subsidiary Borrowers or against any collateral security or guarantee or right of offset held
+by the Administrative Agent or any Lender for the payment of the Obligations, nor shall the Borrower seek or be entitled to seek any
+contribution or reimbursement from the Foreign Subsidiary Borrowers in respect of payments made by the Borrower hereunder, until all
+amounts owing to the Administrative Agent and the Local Currency Lenders by the Foreign Subsidiary Borrowers on account of the Obligations
+are paid in full and the Commitments are terminated. If any amount shall be paid to the Borrower on account of such subrogation rights
+at any time when all of the Obligations shall not have been paid in full, such amount shall be held by the Borrower in trust for the
+Administrative Agent and the Lenders, segregated from other funds of the Borrower, and shall, forthwith upon receipt by the Borrower,
+be turned over to the Administrative Agent in the exact form received by the Borrower (duly indorsed by the Borrower to the Administrative
+Agent, if required), to be applied against the Obligations, whether matured or unmatured, in such order as Administrative Agent may determine.
+The provisions of this paragraph shall continue to be effective after the termination of this Agreement, the payment in full of the Obligations
+and the termination of the Commitments.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 16; Value: 66 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->81<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Amendments,&nbsp;etc.
+with respect to the Obligations; Waiver of Rights. </b>The Borrower shall remain obligated hereunder notwithstanding that, without any
+reservation of rights against the Borrower, and without notice to or further assent by the Borrower, any demand for payment of any of
+the Obligations made by the Administrative Agent or any Lender may be rescinded by the Administrative Agent or such Lender, and any of
+the Obligations continued, and the Obligations, or the liability of any other party upon or for any part thereof, or any collateral security
+or guarantee therefor or right of offset with respect thereto, may, from time to time, in whole or in part, be renewed, extended, amended,
+modified, accelerated, compromised, waived, surrendered or released by the Administrative Agent or any Lender, and any Loan Documents
+and any other documents executed and delivered in connection therewith may be amended, modified, supplemented or terminated, in whole
+or in part, in accordance with the provisions thereof as the Administrative Agent (or the requisite Lenders, as the case may be) may
+deem advisable from time to time, and any collateral security, guarantee or right of offset at any time held by the Administrative Agent
+or any Lender for the payment of the Obligations may be sold, exchanged, waived, surrendered or released. None of the Administrative
+Agent or any Lender shall have any obligation to protect, secure, perfect or insure any Lien at any time held by it as security for the
+Obligations or for this Agreement or any property subject thereto. When making any demand hereunder against the Borrower, the Administrative
+Agent or any Lender may, but shall be under no obligation to, make a similar demand on the Foreign Subsidiary Borrowers or any other
+guarantor, and any failure by the Administrative Agent or any Lender to make any such demand or to collect any payments from a Foreign
+Subsidiary Borrower or any such other guarantor or any release of a Foreign Subsidiary Borrower or such other guarantor shall not relieve
+the Borrower of its obligations or liabilities hereunder, and shall not impair or affect the rights and remedies, express or implied,
+or as a matter of law, of the Administrative Agent or any Lender against the Borrower. For the purposes hereof �demand� shall
+include the commencement and continuance of any legal proceedings.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 17; Value: 66 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->82<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Guarantee
+Absolute and Unconditional. </b>The Borrower waives any and all notice of the creation, renewal, extension or accrual of any of the Obligations
+and notice of or proof of reliance by the Administrative Agent or any Lender upon this Agreement or acceptance of this Agreement; the
+Obligations, and any of them, shall conclusively be deemed to have been created, contracted or incurred, or renewed, extended, amended
+or waived, in reliance upon this Agreement; and all dealings between the Foreign Subsidiary Borrowers and the Borrower, on the one hand,
+and the Administrative Agent and the Lenders, on the other, shall likewise be conclusively presumed to have been had or consummated in
+reliance upon this Agreement. The Borrower waives diligence, presentment, protest, demand for payment and notice of default or nonpayment
+to or upon the Foreign Subsidiary Borrowers and the Borrower with respect to the Obligations. This <u>Section&nbsp;12</u> shall be construed
+as a continuing, absolute and unconditional guarantee of payment without regard to (a)&nbsp;the validity, regularity or enforceability
+of this Agreement, any other Loan Document, any of the Obligations or any other collateral security therefor or guarantee or right of
+offset with respect thereto at any time or from time to time held by the Administrative Agent or any Lender, (b)&nbsp;any defense, set-off
+or counterclaim (other than a defense of payment or performance) which may at any time be available to or be asserted by the Foreign
+Subsidiary Borrowers against the Administrative Agent or any Lender, (c)&nbsp;any law, regulation, decree or order of any jurisdiction,
+or any other event, affecting the Obligations or any Lender�s rights with respect thereto, including, without limitation: (i)&nbsp;the
+application of any such law, regulation, decree or order, including any prior approval, that would prevent the exchange of a non-Dollar
+currency for Dollars or the remittance of funds outside of such jurisdiction or the unavailability of Dollars in any legal exchange market
+in such jurisdiction in accordance with normal commercial practice; or (ii)&nbsp;a declaration of banking moratorium or any suspension
+of payments by banks in such jurisdiction or the imposition by such jurisdiction or any governmental authority thereof of any moratorium
+on the required rescheduling or restructuring of, or required approval of payments on, any indebtedness in such jurisdiction; or (iii)&nbsp;any
+expropriation, confiscation, nationalization or requisition by such country or any governmental authority that directly or indirectly
+deprives the companies in such jurisdiction of any payment obligation under the Obligations; or (iv)&nbsp;any war (whether or not declared),
+insurrection, revolution, hostile act, civil strife or similar events occurring in such jurisdiction that has the same effect as the
+events described in clause (i), (ii)&nbsp;or (iii)&nbsp;above (in each of the cases contemplated in clauses (i)&nbsp;through (iv)&nbsp;above,
+to the extent occurring or existing on or at any time after the date of this Agreement), or (d)&nbsp;any other circumstance whatsoever
+(with or without notice to or knowledge of the Foreign Subsidiary Borrowers or the Borrower) which constitutes, or might be construed
+to constitute, an equitable or legal discharge of the Foreign Subsidiary Borrowers for the Obligations, or of the Borrower under this
+<u>Section&nbsp;12</u>, in bankruptcy or in any other instance. When pursuing its rights and remedies hereunder against the Borrower,
+the Administrative Agent and any Lender may, but shall be under no obligation to, pursue such rights and remedies as it may have against
+the Foreign Subsidiary Borrowers or any other Person or against any collateral security or guarantee for the Obligations or any right
+of offset with respect thereto, and any failure by the Administrative Agent or any Lender to pursue such other rights or remedies or
+to collect any payments from the Borrower or any such other Person or to realize upon any such collateral security or guarantee or to
+exercise any such right of offset, or any release of the Foreign Subsidiary Borrowers or any such other Person or of any such collateral
+security, guarantee or right of offset, shall not relieve the Borrower of any liability hereunder, and shall not impair or affect the
+rights and remedies, whether express, implied or available as a matter of law, of the Administrative Agent or any Lender against the
+Borrower. This <u>Section&nbsp;12</u> shall remain in full force and effect and be binding in accordance with and to the extent of its
+terms upon the Borrower and its successors and assigns, and shall inure to the benefit of the Administrative Agent and the Lenders, and
+their respective successors, endorsees, transferees and assigns, until all the Obligations and the obligations of the Borrower under
+this Agreement shall have been satisfied by payment in full and the Commitments shall be terminated, notwithstanding that from time to
+time during the term of this Agreement the Foreign Subsidiary Borrowers may be free from any Obligations.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Reinstatement.
+</b>This <u>Section&nbsp;12</u> shall continue to be effective, or be reinstated, as the case may be, if at any time payment, or any
+part thereof, of any of the Obligations is rescinded or must otherwise be restored or returned by the Administrative Agent or any Lender
+upon the insolvency, bankruptcy, dissolution, liquidation or reorganization of the Borrower or upon or as a result of the appointment
+of a receiver, intervenor or conservator of, or trustee or similar officer for, the Borrower or any substantial part of its property,
+or otherwise, all as though such payments had not been made.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>Payments.
+</b>The Borrower hereby agrees that all payments required to be made by it hereunder will be made to the Administrative Agent without
+set-off or counterclaim in accordance with the terms of the Obligations, including, without limitation, in the currency in which payment
+is due, <u>provided</u> that if a payment is due in a currency other than Dollars and/or at a place other than the United States, and
+such payment is not made as and when agreed, the Borrower will, upon the Administrative Agent�s request, either (i)&nbsp;make payment
+in such non- Dollar currency and at the place where such payment is payable or (ii)&nbsp;pay the Administrative Agent in Dollars at the
+Administrative Agent�s office referred in <u>Subsection 13.2</u>. In the event of a payment pursuant to clause (ii)&nbsp;above,
+the Borrower will pay the Administrative Agent the Dollar Equivalent of the amount of such payment on the date the Borrower makes such
+payment.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>12.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font><b>�Lenders�.
+</b>For all purposes of this <u>Section&nbsp;12</u>, the term �Lenders� shall be deemed to include Local Currency Lenders.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 18; Value: 66 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><p style="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt">- <!-- Field: Sequence; Type: Arabic; Name: PageNo -->83<!-- Field: /Sequence --> -&nbsp;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&nbsp;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</p>
+
